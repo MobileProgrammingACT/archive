@@ -17,3 +17,8 @@ description
 <img width="1192" alt="developmenttools" src="https://user-images.githubusercontent.com/71335466/195015159-902dec28-4fe2-44fb-be03-2387a338eb64.png">
 
 ### Will be keep on update...
+[구글닥 회의록](https://docs.google.com/document/d/19umuWyTgTpDKv_U7hNkzkzyWXhub2AfggYUtONKJ51A/edit)
+
+[참고 사이트1: 공식 firebase](https://firebase.google.com/docs/android/setup?hl=ko&authuser=0)
+
+[참고 사이트2: 공식 androidstudio](https://developer.android.google.cn/)
